@@ -29,7 +29,7 @@ for line in fp:
     words=line.split()
     count+=len(words)
 print("Number of words in a file",count)
-
+```
 ### OUTPUT:
 ![Screenshot 2023-12-29 163649](https://github.com/DEVAABISHEK/command-line-arguments-to-count-word/assets/150319305/ec7b6020-b8c4-42cf-a765-dbdd6a4b897d)
 
