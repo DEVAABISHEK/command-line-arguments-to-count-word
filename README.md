@@ -32,7 +32,7 @@ print("Number of words in a file",count)
 
 ### OUTPUT:
 
-![WhatsApp Image 2023-12-29 at 16 45 39_f8c8b505](https://github.com/DEVAABISHEK/command-line-arguments-to-count-word/assets/150319305/74f7e90f-6678-4ab6-b2b5-ee237974f6ce)
+![WhatsApp Image 2023-12-29 at 16 45 39_c2edee45](https://github.com/DEVAABISHEK/command-line-arguments-to-count-word/assets/150319305/71056793-6d71-48c5-a52b-6b9c03923eb7)
 
 
 ## RESULT:
